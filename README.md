@@ -1,2 +1,2 @@
 # wp_curriculo
-Este site foi feito em WordPress e apresento nele meu curriculo com algumas informações e alguns trabalhos realiados.
+This site was made in wordpress and I present my curriculum with some information and work developed.
